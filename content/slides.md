@@ -6,6 +6,7 @@ _Ian Johnson_
 
 # Introduction
 
+
 - ShipU alumni
 - Web development for 10 years
 
@@ -23,6 +24,8 @@ _Ian Johnson_
 # How To Get The Job
 
 - Show technical competency
+- Business accumen
+- Positive attitude
 
 ---
 
