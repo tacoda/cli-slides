@@ -7,8 +7,9 @@ _Ian Johnson_
 # Introduction
 
 
-- ShipU alumni
+- Shippensburg University alumni
 - Web development for 10 years
+- Currently employed at Almanac
 
 ---
 
@@ -18,6 +19,7 @@ _Ian Johnson_
 - Distributed Programming
 - Web Programming
 - Blockchain
+- Embedded Programming
 
 ---
 
@@ -37,6 +39,8 @@ _Ian Johnson_
 
 - Git
 - GitHub Pull Requests
+- Bash Scripting
+- Virtualization/Containerization
 
 ---
 
@@ -55,6 +59,8 @@ _Ian Johnson_
 - Learn from User Interaction
 - Test Everything
 - Document Everything
+- Automate Everything
+- Define Environments
 
 ---
 
@@ -62,6 +68,7 @@ _Ian Johnson_
 
 - All software problems are people problems.
 - Communication skills are much more impactful to the business.
+- Soft skills are a hard requirement.
 
 ---
 
