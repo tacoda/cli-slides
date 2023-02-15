@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Professional Software Development // Ian Johnson'
 theme = 'hugo-webslides'
 
+[params.assets]
+favicon = "favicon.ico"
+
 [params.webslides]
   banner = false
   slideshow = true
