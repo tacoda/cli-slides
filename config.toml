@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Professional Software Development // Ian Johnson'
+title = 'Command Line Applications // Ian Johnson'
 theme = 'hugo-webslides'
 
 [params.assets]
